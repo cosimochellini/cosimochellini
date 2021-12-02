@@ -1,5 +1,5 @@
 ## Hi I'm Cosimo👋 
-### I'm a full stack developer, currently my main stack is .NET core + vue (typescript), but I've used several other technologies 😃.
+### I'm a full stack developer from Florece
 
 ## Some stats 💹
 
