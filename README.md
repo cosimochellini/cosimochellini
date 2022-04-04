@@ -1,5 +1,5 @@
 ## Hi I'm Cosimo👋 
-### I'm a full stack developer from Florece
+### I'm a full stack developer from Florence
 
 ## Some stats 💹
 
