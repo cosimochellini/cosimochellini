@@ -1,4 +1,7 @@
 ## Hi I'm Cosimo👋 
+
+![cosimo's octo](https://github.com/cosimochellini/cosimochellini/blob/main/cosimo.png)
+
 ### I'm a full stack developer from Florence
 
 ## Some stats 💹
