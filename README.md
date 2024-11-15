@@ -1,6 +1,6 @@
 ## Hi I'm Cosimo👋 
 
-![cosimo's octo](https://github.com/cosimochellini/cosimochellini/blob/main/cosimo.png)
+![cosimo's octo](https://github.com/cosimochellini/cosimochellini/blob/main/cosimo.webp)
 
 ### I'm a full stack developer from Florence
 
