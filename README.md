@@ -1,6 +1,6 @@
 ## Hi I'm Cosimo👋 
 
-![](https://github.com/cosimochellini/cosimochellini/blob/main/cosimo.webp | width=100)
+<img src="https://github.com/cosimochellini/cosimochellini/blob/main/cosimo.webp" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="350" height="350" />
 
 ### I am currently a Sernior frontend developer from Florence, Italy (GMT+1)
 
