@@ -2,7 +2,7 @@
 
 ![cosimo's octo](https://github.com/cosimochellini/cosimochellini/blob/main/cosimo.webp)
 
-### I'm a full stack developer from Florence
+### I am currently a Sernior frontend developer from Florence, Italy (GMT+1)
 
 ## Some stats 💹
 
