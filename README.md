@@ -10,19 +10,8 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=cosimochellini&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=cosimochellini&theme=dracula&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<img src="https://streak-stats.demolab.com/?user=cosimochellini&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cosimochellini&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosimochellini&layout=compact&hide=html,css&theme=dracula&hide_border=true&exclude_repo=Lattana.Landing)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cosimochellini&theme=dracula&hide_border=true" alt="Activity Graph" />
 
 </div>
