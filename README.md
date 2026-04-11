@@ -6,7 +6,7 @@
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,vite&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,ts,cs,tailwind,vite&theme=dark" alt="Tech Stack" />
 
 ---
 
